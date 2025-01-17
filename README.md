@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **DSA & Web Development also exploring new fields in Cloud Computing & DevOps**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/atharvaj1425?tab=repositories](https://github.com/atharvaj1425?tab=repositories)<br><br>- 📫 How to reach me **jamdadeatharva14@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/atharva-jamdade-061350278/](https://www.linkedin.com/in/atharva-jamdade-061350278/)
+- 🌱 I’m currently learning **DSA & Web Development also exploring Cloud Computing & DevOps**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/atharvaj1425?tab=repositories](https://github.com/atharvaj1425?tab=repositories)<br><br>- 📫 How to reach me **jamdadeatharva14@gmail.com**<br><br>- 📄 Know about my experiences [https://www.linkedin.com/in/atharva-jamdade-061350278/](https://www.linkedin.com/in/atharva-jamdade-061350278/)
 
 
 ## 🌐 Socials:
